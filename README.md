@@ -1,8 +1,8 @@
-&#x20;           ###############################################################################################
+&#x20;          
 
-&#x20;           ##                             **QSim a Simulation of MS-DOS which can run old apps using otvdm or** WineVDM                       ##
+&#x20;                                     **QSim a Simulation of MS-DOS which can run old apps using otvdm or** WineVDM                      
 
-&#x20;           ###############################################################################################
+&#x20;        
 
 
 
